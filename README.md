@@ -57,8 +57,8 @@ Herramientas de diseño paramétrico que permiten explorar múltiples variacione
   <a href="https://twitter.com/agr_db" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-@agr__db-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://linkedin.com/in/andresgrodriguez" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-andresgrodriguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/agrdb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-agrdb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:contacto@agrdb.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-contacto@agrdb.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
