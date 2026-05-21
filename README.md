@@ -89,6 +89,14 @@ Spatial analysis workflows combining QGIS/ArcGIS data with BIM models — urban 
 Python and Dynamo scripts for IFC model optimization (IfcOpenShell), block alignment tools for Civil 3D (IronPython), and productivity tools for BIM teams.
 > *Scripts en Python y Dynamo para optimización de modelos IFC, herramientas de alineación de bloques para Civil 3D e instrumentos de productividad BIM.*
 
+### 📐 Parametric Modeling · Modelado Paramétrico (Revit & AutoCAD)
+Creation of parametric families and components in Revit (structural, architectural, MEP) and dynamic blocks / parametric constraints in AutoCAD. Models designed for reuse, change control, and automated schedule generation.
+> *Creación de familias y componentes paramétricos en Revit (estructural, arquitectónico, MEP) y bloques dinámicos / restricciones paramétricas en AutoCAD. Modelos diseñados para reutilización, control de cambios y generación automática de cuadros de cantidades.*
+
+### 🗂️ Technical Drawing Production · Elaboración de Planos (Revit & AutoCAD)
+Production of construction and as-built drawings directly from BIM models (Revit Sheets → DWG/PDF) and drafting in AutoCAD following LOD standards, title-block automation, and project-specific drawing conventions (NSR-10, ISO 7519).
+> *Producción de planos constructivos y as-built directamente desde modelos BIM (Sheets de Revit → DWG/PDF) y dibujo en AutoCAD con estándares LOD, automatización de carátulas y convenciones de proyecto (NSR-10, ISO 7519).*
+
 ### 📊 BIM Project Management Tools
 Self-contained web tools for BIM teams: Kanban/Scrum boards with hours tracking, analytics, and offline-first design.
 > *Herramientas web para equipos BIM: tableros Kanban/Scrum con seguimiento de horas, analítica y diseño offline-first.*
@@ -101,6 +109,10 @@ Self-contained web tools for BIM teams: Kanban/Scrum boards with hours tracking,
 |---|---|
 | BIM Consulting (ISO 19650) | Consultoría BIM (ISO 19650) |
 | Revit/Navisworks Plugin Development (C#/.NET) | Desarrollo de plugins Revit/Navisworks (C#/.NET) |
+| Parametric Family & Component Modeling (Revit) | Modelado de familias y componentes paramétricos (Revit) |
+| Dynamic Block & Parametric Drawing (AutoCAD) | Bloques dinámicos y dibujo paramétrico (AutoCAD) |
+| Construction Drawing Production (Revit → DWG/PDF) | Elaboración de planos constructivos (Revit → DWG/PDF) |
+| Technical Drafting & As-Built Plans (AutoCAD) | Planos técnicos y as-built (AutoCAD) |
 | BIM–GIS Integration | Integración BIM–GIS |
 | BIM Workflow Implementation | Implementación de flujos de trabajo BIM |
 | IFC Model Auditing & Optimization | Auditoría y optimización de modelos IFC |
